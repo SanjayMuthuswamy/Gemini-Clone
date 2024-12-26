@@ -210,12 +210,10 @@
         width: 20px;
     }
     .searchbox{
-        padding: 5px 10px;
+        padding: 5px 1px;
 
     }
-    .searchbox div{
-        gap :5px ;
-    }
+   
     .bottom-info {
         font-size: 12px; /* Slightly smaller text for smaller screens */
         margin-top: 5px;

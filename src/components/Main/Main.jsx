@@ -106,7 +106,7 @@ function Main() {
             </div>
           </div>
           <div className="bottom-info">
-            <p>ChatGPT may err. Verify critical details before making decisions..</p>
+            <p>Gemini may err. Verify critical details before making decisions..</p>
           </div>
         </div>
       </div>
